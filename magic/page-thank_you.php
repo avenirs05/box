@@ -56,7 +56,7 @@
 <body>
 
 
-    <div style="text-align: center; margin-bottom: 30px; margin-top: 30px;" class="thank-you text-center">
+    <div class="thank-you text-center">
         <span>Спасибо за обращение! С вами свяжутся в ближайшее время!</span><br>
         <span>Вернуться на <a href="/">Главную.</a></span>
     </div>
